@@ -1,0 +1,155 @@
+body{
+    background-color:white;
+    font-family: poppins, sans-serif;
+    color: rgb(67, 67, 67);
+}
+h1,h2{
+    font-family: League Spartan, sans-serif;
+    font-weight: 600;
+    color: #140f18;
+    font-size: 35px;
+}
+#nav-bar{
+    display: flex;
+    background: grey;
+   
+}
+.nav{
+    padding: 10px;
+    list-style: none;
+}
+.nav-1{
+    text-decoration: none;
+    border: 1px solid grey;
+    border-radius: 2px;
+    padding: 7px;
+}
+#top {
+    display: flex;
+    max-width: 80%;
+    margin: 10px auto;
+    gap: 50px;
+}
+#about
+{
+    width: 50%;
+}
+#pic{
+    width: 50%;
+}
+.num{
+    border: 2px solid rgb(243, 141, 25);
+    width: 20px;
+    padding: 12px;
+    text-align: center;
+    border-radius: 4px;
+    background-color: rgb(243, 141, 25);
+    color: white;
+    font-weight: 700;
+}
+.tasks{
+    display: flex;
+    font-family: League Spartan,  sans-serif;
+    font-size: x-larger;
+}
+.task{
+    display: flex;
+    max-width: 80%;
+    margin: 10px auto;
+}
+.text
+{
+    width: 50%;
+}
+.task-img{
+    width: 50%;
+    border-radius: 10px;
+}
+#gallery{
+    background: rgb(243, 203, 130);
+    display: flex;
+}
+#gallery-text{
+    width: 50%;
+    padding: 5px;
+}
+#gallery-imgs{
+    width: 50%;
+    padding: 5px;
+}
+.x1
+{
+    width: 200px;
+    padding: 0px;
+}
+.x2
+{
+    width: 200px;
+}
+.x3
+{
+    width: 200px;
+}
+#up{
+    display: flex;
+}
+#mid
+{
+    display: flex;
+}
+#bottom{
+    display: flex;
+}
+.texty{
+    display: flex;
+}
+#tex-1{
+    width: 50%;
+}
+#tex-2{
+    width: 50%;
+}
+#tex-3{
+    width: 50%;
+}
+#tex-4{
+    width: 50%;
+}
+#cost{
+    display: flex;
+    max-width: 700px;
+    margin: 20px auto;
+    gap:50px;
+}
+#gen{
+    border: solid black 2px;
+    border-radius: 8px;
+    padding: 20px;
+    background: rgb(197, 193, 193);
+    width: 50%;
+}
+#pre
+{
+    border: solid black 2px;
+    border-radius: 8px;
+    padding: 20px;
+    background: rgb(253, 222, 50);
+    width: 50%;
+}
+.btn{
+    background-color: #140f18;
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background: rgb(172, 163, 163);
+    color: black;
+}
+#pre-btn:hover{
+    background: rgb(241, 241, 72);
+}
+.a{
+    list-style: none;
+}
